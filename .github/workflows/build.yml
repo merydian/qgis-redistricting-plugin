@@ -45,4 +45,3 @@ jobs:
       with:
         name: redistrict_plugin.${{ env.VERSION }}
         path: tmp
-
